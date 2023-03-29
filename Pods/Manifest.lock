@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.6.4)
+  - Cosmos (23.0.0)
+  - SDWebImage (5.15.5):
+    - SDWebImage/Core (= 5.15.5)
+  - SDWebImage/Core (5.15.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - Cosmos (~> 23.0)
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cosmos
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  SDWebImage: fd7e1a22f00303e058058278639bf6196ee431fe
+
+PODFILE CHECKSUM: a34b0d8e15d55ed80bfa0e9d7f59fbd1cde22467
+
+COCOAPODS: 1.12.0
